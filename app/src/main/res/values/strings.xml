@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">btvnWeek4</string>
+    <string name="todo">TODO</string>
+    <string name="name">Name</string>
+    <string name="content">Content</string>
+
+</resources>
