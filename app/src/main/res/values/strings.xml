@@ -3,5 +3,8 @@
     <string name="todo">TODO</string>
     <string name="name">Name</string>
     <string name="content">Content</string>
+    <string name="des"> Description</string>
+    <string name="name_movie">Display Name</string>
+    <string name="date">Release Date</string>
 
 </resources>
